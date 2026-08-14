@@ -14,6 +14,13 @@ Repositório com exercícios e atividades desenvolvidos durante a disciplina de 
     - `MediaGeometrica.java`
     - `QtdDiasDoMes.java`
 
+- `aula-2/`
+    - `01MediaTermos.java`
+    - `02NumeroPerfeito.java`
+    - `03TermoFibonacci.java`
+    - `04MediaParesImpares.java`
+    - `05OrdenacaoArray.java`
+    - `06AgendaClinica.java`
 
 ---
 
