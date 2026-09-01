@@ -22,9 +22,22 @@ Repositório com exercícios e atividades desenvolvidos durante a disciplina de 
     - `05OrdenacaoArray.java`
     - `06AgendaClinica.java`
 
+- `aula-3/`
+    - `PrjTabDisciplina/`
+    - `Livros.mdb`
+    - `src/`
+    - `nbproject/`
+
+- `aula-4/`
+    - `PrjPessoaTP4/`
+    - `meubanco.dbo`
+    - `meubancoPessoa.dbo`
+    - `src/`
+    - `nbproject/`
+
 ---
 
-## 🧠 Conceitos trabalhados
+## Conceitos trabalhados
 
 - Variáveis e tipos de dados
 - Operadores aritméticos
@@ -35,6 +48,6 @@ Repositório com exercícios e atividades desenvolvidos durante a disciplina de 
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Organizar os exercícios e acompanhar minha evolução na disciplina de Técnicas de Programação, colocando em prática os conceitos aprendidos durante o curso de ADS.
