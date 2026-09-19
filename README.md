@@ -35,6 +35,14 @@ Repositório com exercícios e atividades desenvolvidos durante a disciplina de 
     - `src/`
     - `nbproject/`
 
+- `aula-5/`
+    - `Livro.java`
+    - `LivroReflection.java`
+
+- `aula-6/`
+    - `Livro.java`
+    - `MyDAL.java`
+    - `TPSemana11.java`
 ---
 
 ## Conceitos trabalhados
@@ -45,6 +53,8 @@ Repositório com exercícios e atividades desenvolvidos durante a disciplina de 
 - Estruturas condicionais
 - Estruturas de repetição
 - Métodos e organização de código
+- Java Reflection API: Inspeção dinâmica de metadados da classe (getClass, getDeclaredFields), mapeamento de assinaturas (getMethod) e execução de métodos em tempo de execução (invoke)
+- Geração Dinâmica de SQL (Bases de ORM): Lógica estrutural para Mapeamento Objeto-Relacional, automatizando a construção de instruções CREATE TABLE, INSERT e DELETE adaptáveis a qualquer classe.
 
 ---
 
