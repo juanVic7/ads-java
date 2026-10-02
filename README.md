@@ -43,7 +43,15 @@ Repositório com exercícios e atividades desenvolvidos durante a disciplina de 
     - `Livro.java`
     - `MyDAL.java`
     - `TPSemana11.java`
----
+
+### 2° Bimestre
+
+- `aula-7/`
+    - `Livro.java`
+    - `Erro.java`
+    - `MyDAL.java`
+    - `TPSemana11.java`
+--- 
 
 ## Conceitos trabalhados
 
