@@ -51,6 +51,17 @@ Repositório com exercícios e atividades desenvolvidos durante a disciplina de 
     - `Erro.java`
     - `MyDAL.java`
     - `TPSemana11.java`
+
+- `aula-8/`
+    - `src/`
+        - `Livro.java`
+        - `Erro.java`
+        - `MYDAL.java`
+        - `TPSemana11.java`
+    - `banco/`
+        - `Livro.mdb`
+    - `pom.xml`
+  
 --- 
 
 ## Conceitos trabalhados
