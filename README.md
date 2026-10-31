@@ -63,10 +63,10 @@ Repositório com exercícios e atividades desenvolvidos durante a disciplina de 
     - `pom.xml`
 
 - `aula-9/`
-    -`BLL.java`
-    -`IHM.form`
-    -`IHM.java`
-    -`Pessoa.java` 
+    - `BLL.java`
+    - `IHM.form`
+    - `IHM.java`
+    - `Pessoa.java` 
 --- 
 
 ## Conceitos trabalhados
