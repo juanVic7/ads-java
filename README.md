@@ -8,13 +8,13 @@ Repositório com exercícios e atividades desenvolvidos durante a disciplina de 
 
 ### 1º Bimestre
 
-- `aula-1/`
+- `aula-01/`
     - `CelsiusEmFahrenheit.java`
     - `MediaAritmetica.java`
     - `MediaGeometrica.java`
     - `QtdDiasDoMes.java`
 
-- `aula-2/`
+- `aula-02/`
     - `01MediaTermos.java`
     - `02NumeroPerfeito.java`
     - `03TermoFibonacci.java`
@@ -22,37 +22,37 @@ Repositório com exercícios e atividades desenvolvidos durante a disciplina de 
     - `05OrdenacaoArray.java`
     - `06AgendaClinica.java`
 
-- `aula-3/`
+- `aula-03/`
     - `PrjTabDisciplina/`
     - `Livros.mdb`
     - `src/`
     - `nbproject/`
 
-- `aula-4/`
+- `aula-04/`
     - `PrjPessoaTP4/`
     - `meubanco.dbo`
     - `meubancoPessoa.dbo`
     - `src/`
     - `nbproject/`
 
-- `aula-5/`
+- `aula-05/`
     - `Livro.java`
     - `LivroReflection.java`
 
-- `aula-6/`
+- `aula-06/`
     - `Livro.java`
     - `MyDAL.java`
     - `TPSemana11.java`
 
 ### 2° Bimestre
 
-- `aula-7/`
+- `aula-07/`
     - `Livro.java`
     - `Erro.java`
     - `MyDAL.java`
     - `TPSemana11.java`
 
-- `aula-8/`
+- `aula-08/`
     - `src/`
         - `Livro.java`
         - `Erro.java`
@@ -62,11 +62,17 @@ Repositório com exercícios e atividades desenvolvidos durante a disciplina de 
         - `Livro.mdb`
     - `pom.xml`
 
-- `aula-9/`
+- `aula-09/`
     - `BLL.java`
     - `IHM.form`
     - `IHM.java`
-    - `Pessoa.java` 
+    - `Pessoa.java`
+
+- `aula-10/`
+    - `index.jsp`
+    - `Erro.java`
+    - `Produto.java`
+    - `ProdutoDAL.java`
 --- 
 
 ## Conceitos trabalhados
